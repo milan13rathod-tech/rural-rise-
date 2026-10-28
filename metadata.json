@@ -1,0 +1,8 @@
+{
+  "name": "Rural Business Hub",
+  "description": "One platform for rural entrepreneurs to manage products, sales, orders, logistics, and customer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
